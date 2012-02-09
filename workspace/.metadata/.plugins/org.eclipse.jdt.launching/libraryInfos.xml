@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="D:\glassfish3\jdk" version="1.6.0_29">
+<bootpath>
+<entry path="D:\glassfish3\jdk\jre\lib\resources.jar"/>
+<entry path="D:\glassfish3\jdk\jre\lib\rt.jar"/>
+<entry path="D:\glassfish3\jdk\jre\lib\sunrsasign.jar"/>
+<entry path="D:\glassfish3\jdk\jre\lib\jsse.jar"/>
+<entry path="D:\glassfish3\jdk\jre\lib\jce.jar"/>
+<entry path="D:\glassfish3\jdk\jre\lib\charsets.jar"/>
+<entry path="D:\glassfish3\jdk\jre\lib\modules\jdk.boot.jar"/>
+<entry path="D:\glassfish3\jdk\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\glassfish3\jdk\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\glassfish3\jdk\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\infosmart\jdk1.7.0" version="1.7.0">
+<bootpath>
+<entry path="C:\infosmart\jdk1.7.0\jre\lib\resources.jar"/>
+<entry path="C:\infosmart\jdk1.7.0\jre\lib\rt.jar"/>
+<entry path="C:\infosmart\jdk1.7.0\jre\lib\sunrsasign.jar"/>
+<entry path="C:\infosmart\jdk1.7.0\jre\lib\jsse.jar"/>
+<entry path="C:\infosmart\jdk1.7.0\jre\lib\jce.jar"/>
+<entry path="C:\infosmart\jdk1.7.0\jre\lib\charsets.jar"/>
+<entry path="C:\infosmart\jdk1.7.0\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\infosmart\jdk1.7.0\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\infosmart\jdk1.7.0\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

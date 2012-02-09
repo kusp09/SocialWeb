@@ -1,0 +1,17 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.jboss.tools.jst.text.ext,3.3.0.v20111208-2115-H35-M5,"org.jboss.tools.jst.text.ext",1328810218876
+stopped,bundle,org.jboss.tools.jst.web.kb,3.3.0.v20111208-2115-H35-M5,"org.jboss.tools.jst.web.kb",1328810218876
+stopped,bundle,org.jboss.tools.common.el.ui,3.3.0.v20111208-2036-H34-M5,"org.jboss.tools.common.el.ui",1328810218894
+stopped,bundle,org.jboss.tools.common.resref.ui,3.3.0.v20111208-2036-H34-M5,"org.jboss.tools.common.resref.ui",1328810218906
+stopped,bundle,org.jboss.tools.hibernate.xml.ui,3.4.0.v20111213-1944-H40-M5,"org.jboss.tools.hibernate.xml.ui",1328810218932
+stopped,bundle,org.jboss.tools.common.model.ui,3.3.0.v20111208-2036-H34-M5,"org.jboss.tools.common.model.ui",1328810218932
+stopped,bundle,org.jboss.tools.common.text.ext,3.3.0.v20111208-2036-H34-M5,"org.jboss.tools.common.text.ext",1328810218932
+stopped,bundle,org.jboss.tools.cdi.xml,1.2.0.v20111208-2203-H35-M5,"org.jboss.tools.cdi.xml",1328810218932
+stopped,bundle,org.jboss.tools.jst.web.tiles,3.3.0.v20111208-2115-H35-M5,"org.jboss.tools.jst.web.tiles",1328810218932
+stopped,bundle,org.jboss.tools.jst.web.verification,3.3.0.v20111208-2115-H35-M5,"org.jboss.tools.jst.web.verification",1328810218959
+stopped,bundle,org.jboss.tools.seam.xml,3.3.0.v20111207-1453-H52-M5,"org.jboss.tools.seam.xml",1328810218959
+stopped,bundle,org.jboss.tools.jst.web,3.3.0.v20111208-2115-H35-M5,"org.jboss.tools.jst.web",1328810218959
+stopped,bundle,org.eclipse.jst.jsp.core,1.2.401.v201108302147,"org.eclipse.jst.jsp.core",1328810218959
+stopped,bundle,org.eclipse.wst.jsdt.web.ui,1.0.401.v201108152113,"org.eclipse.wst.jsdt.web.ui",1328810218978
+stopped,bundle,org.eclipse.jpt.jaxb.eclipselink.ui,1.1.0.v201105110000,"org.eclipse.jpt.jaxb.eclipselink.ui",1328810219009
+stopped,bundle,org.eclipse.jpt.jaxb.ui,1.1.1.v201108080010,"org.eclipse.jpt.jaxb.ui",1328810219011

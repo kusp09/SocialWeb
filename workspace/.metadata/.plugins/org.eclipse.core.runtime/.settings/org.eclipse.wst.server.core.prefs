@@ -1,0 +1,3 @@
+#Thu Feb 09 12:49:37 EST 2012
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime PROPERTY_EXEC_ENVIRONMENT\="JavaSE-1.6" id\="JBoss 7.0 Runtime" location\="C\:/infosmart/jboss-as-7.0.2" name\="JBoss 7.0 Runtime" org.jboss.ide.eclipse.as.core.runtime.configurationName\="default" org.jboss.ide.eclipse.as.core.server.internal.v7.CONFIG_FILE\="standalone.xml" runtime-type-id\="org.jboss.ide.eclipse.as.runtime.70" timestamp\="0"/>\r\n</runtimes>\r\n
+eclipse.preferences.version=1

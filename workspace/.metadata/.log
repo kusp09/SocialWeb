@@ -1,0 +1,145 @@
+!SESSION 2012-02-09 12:47:57.625 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_29
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.mylyn.tasks.ui 4 0 2012-02-09 12:48:23.070
+!MESSAGE Could not load repository template extension contributed by org.jboss.tools.common.mylyn with connectorKind jira
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.221
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.helloworld project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.223
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.numberguess project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.225
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.login project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.227
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.kitchensink project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.229
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.poh5helloworld project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.231
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.ticketmonster project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.233
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.jbossJavaee6Webapp project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.235
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.jbossJavaee6Ear project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.237
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.jbossJavaee6Poh5 project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.239
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.jbossJavaee6SpringMvc project example not found
+
+!ENTRY org.jboss.tools.central 2 0 2012-02-09 12:48:56.241
+!MESSAGE The org.jboss.tools.central.jbossas.quickstart.jbossJavaee6Richfaces project example not found
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:06.760
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:06.764
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:06.768
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:49.549
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:49.553
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:49.557
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:50.506
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:50.510
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:50.514
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:56.034
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:56.039
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:51:56.043
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:25.151
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:25.156
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:25.160
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:38.320
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:38.324
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:38.329
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:49.534
+!MESSAGE Invalid preference page path: Web Toolkit
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:49.537
+!MESSAGE Invalid preference page path: Speed Tracer
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:49.540
+!MESSAGE Invalid preference page path: Code Templates
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:52:49.542
+!MESSAGE Invalid preference page path: Content Assist
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:53:58.939
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:53:58.943
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:53:58.948
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:04.219
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:04.224
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:04.228
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:05.336
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:05.340
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:05.345
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:49.513
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.popupMenu.project.gwtSettings
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:49.518
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.GWTCompileProjectAction
+
+!ENTRY org.eclipse.ui 4 4 2012-02-09 12:54:49.523
+!MESSAGE Plug-in 'com.google.gwt.eclipse.core' contributed an invalid Menu Extension (Path: 'com.google.gdt.eclipse.suite.popupMenu.project' is invalid): com.google.gwt.eclipse.core.actions.SpeedTracerToolbarAction
