@@ -20,7 +20,7 @@ public class TestServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
       
 	@EJB 
-	UserManagementBeanLocal ejb;
+	UserManagementBeanLocal ejb; //test
     /**
      * @see HttpServlet#HttpServlet()
      */
